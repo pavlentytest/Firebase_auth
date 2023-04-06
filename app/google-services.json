@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779408967964",
+    "project_id": "mirea0304-1cddb",
+    "storage_bucket": "mirea0304-1cddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779408967964:android:83c7618b93e950544c92d9",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779408967964-if0acc93csqj1me0718tn6r72j0hste1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRfLNTgS-YME8MT0O62JKI0dzTrqzSK1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779408967964-if0acc93csqj1me0718tn6r72j0hste1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
